@@ -88,11 +88,10 @@ Urban stores outperform suburban locations
 Insight: Expand presence where demand is strong; develop targeted strategies for weaker regions.
 
 📦 4. Tools & Technologies Used
-Tool	Purpose
-Python (Pandas, Matplotlib)	Data cleaning, analysis, and visualization
-Microsoft Excel	Additional data exploration and validation
-PowerPoint	Presentation of final insights and strategy
-GitHub	Version control and project documentation
+SQL Platforms: Snowflake,  Google BigQuery,
+Data Visualization: Microsoft Excel, Power BI,Google looker
+Presentation & Planning: Microsoft PowerPoint, Miro, Canva
+
 📝 5. Summary of Findings
 
 The analysis shows that Brightlight Coffee Shop has a strong and predictable sales base, driven primarily by:
